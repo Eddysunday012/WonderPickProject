@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 import "./index.css";
-import { motion } from "motion/react";
+// import { motion } from "motion/react";
 
 function App() {
   // const [count, setCount] = useState(0)
