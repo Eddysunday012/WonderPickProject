@@ -19,7 +19,7 @@ function App() {
           Will poopy be my poopentine?
         </p>
       </div>
-      <div className="grid grid-cols-3 gap-y-[124px] items-center">
+      <div className="flex flex-wrap gap-y-[124px] justify-center">
         {images.map((image) => (
           <div key={image}>
             <Dialog>
